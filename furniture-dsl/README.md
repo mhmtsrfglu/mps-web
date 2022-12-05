@@ -1,14 +1,3 @@
-This project is part of JetBrains MPS Elementary Course https://stepik.org/course/37360
-
-Prerequisites
---------------
-[MPS](https://www.jetbrains.com/mps/) version 2019.1 or higher
-
-
-License
---------
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
-
 
 # Basic_CSS
 
